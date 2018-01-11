@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gasolina ou Álcool (aula)</string>
+    <string name="action_settings">Settings</string>
+    <string name="botao_texto_verificar">Verificar</string>
+    <string name="title_activity_detalhes">DetalhesActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>

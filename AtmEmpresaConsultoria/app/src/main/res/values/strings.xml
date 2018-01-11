@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_empresa">EmpresaActivity</string>
+    <string name="empresa_detalhes">Sobre a empresa</string>
+    <string name="title_activity_servico">ServicoActivity</string>
+    <string name="servico_detalhes">Serviços</string>
+    <string name="title_activity_cliente">ClienteActivity</string>
+    <string name="title_activity_contato">ContatoActivity</string>
+    <string name="texto_contato">Contato</string>
+    <string name="tx_cliente">Clientes</string>
+    <string name="tx_servicos">Nossos serviços</string>
+</resources>
